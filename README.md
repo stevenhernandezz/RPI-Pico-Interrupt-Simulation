@@ -3,7 +3,7 @@ This project uses the RPI Pico simulation to gain familiarty with ARM CortexMO+ 
 
 
 ## Description
-This project contains a C++ program from the Raspberry Pi Pico that sets up a GPIO pin to trigger an interrupt on both rising and falling edges. When that interrupt is called, my program will output a human-readable message indicating the type of GPIO event that occurred either “Rising-Edge” or “Falling Edge”.
+This project contains a C++ program that sets up a GPIO pin to trigger an interrupt on both rising and falling edges. When that interrupt is called, my program will output a human-readable message indicating the type of GPIO event that occurred either “Rising-Edge” or “Falling Edge”.
 
 ## Demo Video
 https://www.youtube.com/watch?v=s67s3M_-3q8
